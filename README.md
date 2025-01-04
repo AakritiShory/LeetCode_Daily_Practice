@@ -7,6 +7,7 @@ A 30-day challenge to helping to improve DSA skills
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AakritiShory/-6Companies30days/tree/master/0011-container-with-most-water) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
@@ -28,4 +29,12 @@ A 30-day challenge to helping to improve DSA skills
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AakritiShory/-6Companies30days/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AakritiShory/-6Companies30days/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
