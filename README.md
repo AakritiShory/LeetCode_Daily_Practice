@@ -12,6 +12,7 @@ A 30-day challenge to helping to improve DSA skills
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0009-palindrome-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
