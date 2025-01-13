@@ -1,17 +1,18 @@
 class Solution {
+    int findWinnerIdx(int n,int k){
+        if(n==1){
+            return 0;
+        }
+        int idx=findWinnerIdx(n-1,k);
+        idx=(idx+k)%n;//to find original index in original arr
+        return idx;
+       
+    }
     public int findTheWinner(int n, int k) {
-        Queue<Integer>que=new LinkedList<>();
-        for(int i=1;i<=n;i++){
-            que.add(i);
-        }
-        while(que.size()>1){
-            for(int count=1;count<=k-1;count++){
-                que.add(que.poll());
-              
-            }
-            que.poll();
-        }
-        return que.peek();
-        
+        int result_idx=findWinnerIdx(n,k);
+        return result_idx+1;
+
+
+         
     }
 }
