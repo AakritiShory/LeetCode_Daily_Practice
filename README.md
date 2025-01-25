@@ -13,12 +13,14 @@ A 30-day challenge to helping to improve DSA skills
 | [0283-move-zeroes](https://github.com/AakritiShory/-6Companies30days/tree/master/0283-move-zeroes) |
 | [0940-fruit-into-baskets](https://github.com/AakritiShory/-6Companies30days/tree/master/0940-fruit-into-baskets) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AakritiShory/-6Companies30days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AakritiShory/-6Companies30days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A 30-day challenge to helping to improve DSA skills
 | [0001-two-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/AakritiShory/-6Companies30days/tree/master/0940-fruit-into-baskets) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AakritiShory/-6Companies30days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A 30-day challenge to helping to improve DSA skills
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AakritiShory/-6Companies30days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
