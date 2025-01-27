@@ -39,6 +39,7 @@ A 30-day challenge to helping to improve DSA skills
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/AakritiShory/-6Companies30days/tree/master/0940-fruit-into-baskets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AakritiShory/-6Companies30days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -68,6 +69,7 @@ A 30-day challenge to helping to improve DSA skills
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -76,5 +78,6 @@ A 30-day challenge to helping to improve DSA skills
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AakritiShory/-6Companies30days/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
