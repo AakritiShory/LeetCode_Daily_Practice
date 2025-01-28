@@ -9,6 +9,7 @@ A 30-day challenge to helping to improve DSA skills
 | [0001-two-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AakritiShory/-6Companies30days/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AakritiShory/-6Companies30days/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AakritiShory/-6Companies30days/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AakritiShory/-6Companies30days/tree/master/0485-max-consecutive-ones) |
@@ -66,6 +67,7 @@ A 30-day challenge to helping to improve DSA skills
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 ## Sorting
 |  |
