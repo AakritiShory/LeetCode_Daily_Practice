@@ -13,6 +13,7 @@ A 30-day challenge to helping to improve DSA skills
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AakritiShory/-6Companies30days/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AakritiShory/-6Companies30days/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/AakritiShory/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/AakritiShory/-6Companies30days/tree/master/0940-fruit-into-baskets) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AakritiShory/-6Companies30days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -43,6 +44,7 @@ A 30-day challenge to helping to improve DSA skills
 | [0001-two-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/AakritiShory/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/AakritiShory/-6Companies30days/tree/master/0940-fruit-into-baskets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AakritiShory/-6Companies30days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AakritiShory/-6Companies30days/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -83,4 +85,8 @@ A 30-day challenge to helping to improve DSA skills
 | ------- |
 | [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AakritiShory/-6Companies30days/tree/master/2847-find-maximum-number-of-string-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AakritiShory/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
