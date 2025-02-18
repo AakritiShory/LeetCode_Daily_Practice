@@ -42,6 +42,7 @@ A 30-day challenge to helping to improve DSA skills
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/AakritiShory/-6Companies30days/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiShory/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
@@ -83,6 +84,7 @@ A 30-day challenge to helping to improve DSA skills
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/AakritiShory/-6Companies30days/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AakritiShory/-6Companies30days/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Prefix Sum
