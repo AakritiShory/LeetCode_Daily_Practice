@@ -84,6 +84,7 @@ A 30-day challenge to helping to improve DSA skills
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/AakritiShory/-6Companies30days/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AakritiShory/-6Companies30days/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -91,4 +92,8 @@ A 30-day challenge to helping to improve DSA skills
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiShory/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
