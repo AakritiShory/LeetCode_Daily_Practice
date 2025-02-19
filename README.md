@@ -54,6 +54,7 @@ A 30-day challenge to helping to improve DSA skills
 | ------- |
 | [0011-container-with-most-water](https://github.com/AakritiShory/-6Companies30days/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AakritiShory/-6Companies30days/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/AakritiShory/-6Companies30days/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AakritiShory/-6Companies30days/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -85,6 +86,7 @@ A 30-day challenge to helping to improve DSA skills
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/AakritiShory/-6Companies30days/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AakritiShory/-6Companies30days/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
