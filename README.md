@@ -14,6 +14,7 @@ A 30-day challenge to helping to improve DSA skills
 | [0283-move-zeroes](https://github.com/AakritiShory/-6Companies30days/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AakritiShory/-6Companies30days/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiShory/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/AakritiShory/-6Companies30days/tree/master/0605-can-place-flowers) |
 | [0940-fruit-into-baskets](https://github.com/AakritiShory/-6Companies30days/tree/master/0940-fruit-into-baskets) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AakritiShory/-6Companies30days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -62,6 +63,7 @@ A 30-day challenge to helping to improve DSA skills
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AakritiShory/-6Companies30days/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/AakritiShory/-6Companies30days/tree/master/0605-can-place-flowers) |
 | [2032-largest-odd-number-in-string](https://github.com/AakritiShory/-6Companies30days/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
