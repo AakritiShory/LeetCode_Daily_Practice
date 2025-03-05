@@ -108,9 +108,22 @@ A 30-day challenge to helping to improve DSA skills
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0094-binary-tree-inorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/AakritiShory/-6Companies30days/tree/master/0812-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
