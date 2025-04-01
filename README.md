@@ -17,6 +17,7 @@ A 30-day challenge to helping to improve DSA skills
 | [0605-can-place-flowers](https://github.com/AakritiShory/-6Companies30days/tree/master/0605-can-place-flowers) |
 | [0940-fruit-into-baskets](https://github.com/AakritiShory/-6Companies30days/tree/master/0940-fruit-into-baskets) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2262-solving-questions-with-brainpower](https://github.com/AakritiShory/-6Companies30days/tree/master/2262-solving-questions-with-brainpower) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AakritiShory/-6Companies30days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AakritiShory/-6Companies30days/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
@@ -126,4 +127,8 @@ A 30-day challenge to helping to improve DSA skills
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0094-binary-tree-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2262-solving-questions-with-brainpower](https://github.com/AakritiShory/-6Companies30days/tree/master/2262-solving-questions-with-brainpower) |
 <!---LeetCode Topics End-->
