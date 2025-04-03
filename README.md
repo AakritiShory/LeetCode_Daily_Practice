@@ -20,6 +20,7 @@ A 30-day challenge to helping to improve DSA skills
 | [2262-solving-questions-with-brainpower](https://github.com/AakritiShory/-6Companies30days/tree/master/2262-solving-questions-with-brainpower) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AakritiShory/-6Companies30days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AakritiShory/-6Companies30days/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AakritiShory/-6Companies30days/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AakritiShory/-6Companies30days/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Math
 |  |
