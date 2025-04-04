@@ -52,6 +52,7 @@ A 30-day challenge to helping to improve DSA skills
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiShory/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/AakritiShory/-6Companies30days/tree/master/0940-fruit-into-baskets) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiShory/-6Companies30days/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AakritiShory/-6Companies30days/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AakritiShory/-6Companies30days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AakritiShory/-6Companies30days/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -121,16 +122,23 @@ A 30-day challenge to helping to improve DSA skills
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0094-binary-tree-inorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiShory/-6Companies30days/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0094-binary-tree-inorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiShory/-6Companies30days/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0094-binary-tree-inorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiShory/-6Companies30days/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [2262-solving-questions-with-brainpower](https://github.com/AakritiShory/-6Companies30days/tree/master/2262-solving-questions-with-brainpower) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiShory/-6Companies30days/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
