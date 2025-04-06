@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AakritiShory/-6Companies30days/tree/master/0283-move-zeroes) |
+| [0368-largest-divisible-subset](https://github.com/AakritiShory/-6Companies30days/tree/master/0368-largest-divisible-subset) |
 | [0485-max-consecutive-ones](https://github.com/AakritiShory/-6Companies30days/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiShory/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AakritiShory/-6Companies30days/tree/master/0605-can-place-flowers) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
+| [0368-largest-divisible-subset](https://github.com/AakritiShory/-6Companies30days/tree/master/0368-largest-divisible-subset) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AakritiShory/-6Companies30days/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/AakritiShory/-6Companies30days/tree/master/2032-largest-odd-number-in-string) |
@@ -89,6 +91,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
+| [0368-largest-divisible-subset](https://github.com/AakritiShory/-6Companies30days/tree/master/0368-largest-divisible-subset) |
 ## Counting
 |  |
 | ------- |
@@ -138,6 +141,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/AakritiShory/-6Companies30days/tree/master/0368-largest-divisible-subset) |
 | [2262-solving-questions-with-brainpower](https://github.com/AakritiShory/-6Companies30days/tree/master/2262-solving-questions-with-brainpower) |
 ## Breadth-First Search
 |  |
