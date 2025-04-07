@@ -37,6 +37,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AakritiShory/-6Companies30days/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -161,4 +162,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AakritiShory/-6Companies30days/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AakritiShory/-6Companies30days/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
