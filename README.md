@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AakritiShory/-6Companies30days/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/AakritiShory/-6Companies30days/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/AakritiShory/-6Companies30days/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiShory/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AakritiShory/-6Companies30days/tree/master/0605-can-place-flowers) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/AakritiShory/-6Companies30days/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/AakritiShory/-6Companies30days/tree/master/2262-solving-questions-with-brainpower) |
 ## Breadth-First Search
 |  |
