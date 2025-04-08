@@ -24,6 +24,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AakritiShory/-6Companies30days/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AakritiShory/-6Companies30days/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AakritiShory/-6Companies30days/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AakritiShory/-6Companies30days/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AakritiShory/-6Companies30days/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AakritiShory/-6Companies30days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AakritiShory/-6Companies30days/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AakritiShory/-6Companies30days/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |
