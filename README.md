@@ -38,6 +38,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AakritiShory/-6Companies30days/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AakritiShory/-6Companies30days/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -167,5 +168,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AakritiShory/-6Companies30days/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AakritiShory/-6Companies30days/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
