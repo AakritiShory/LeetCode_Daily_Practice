@@ -15,6 +15,7 @@
 | [0368-largest-divisible-subset](https://github.com/AakritiShory/-6Companies30days/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/AakritiShory/-6Companies30days/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/AakritiShory/-6Companies30days/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiShory/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AakritiShory/-6Companies30days/tree/master/0605-can-place-flowers) |
 | [0940-fruit-into-baskets](https://github.com/AakritiShory/-6Companies30days/tree/master/0940-fruit-into-baskets) |
@@ -60,6 +61,7 @@
 | [0205-isomorphic-strings](https://github.com/AakritiShory/-6Companies30days/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/AakritiShory/-6Companies30days/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AakritiShory/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/AakritiShory/-6Companies30days/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiShory/-6Companies30days/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -128,6 +130,7 @@
 | [0020-valid-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AakritiShory/-6Companies30days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/AakritiShory/-6Companies30days/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AakritiShory/-6Companies30days/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## String Matching
@@ -180,5 +183,6 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AakritiShory/-6Companies30days/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/AakritiShory/-6Companies30days/tree/master/0496-next-greater-element-i) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AakritiShory/-6Companies30days/tree/master/1305-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
