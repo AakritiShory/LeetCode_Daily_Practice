@@ -130,6 +130,7 @@
 | [0020-valid-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AakritiShory/-6Companies30days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/AakritiShory/-6Companies30days/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AakritiShory/-6Companies30days/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AakritiShory/-6Companies30days/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -185,4 +186,8 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AakritiShory/-6Companies30days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/AakritiShory/-6Companies30days/tree/master/0496-next-greater-element-i) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AakritiShory/-6Companies30days/tree/master/1305-number-of-visible-people-in-a-queue) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AakritiShory/-6Companies30days/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
