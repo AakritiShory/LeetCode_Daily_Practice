@@ -18,6 +18,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AakritiShory/-6Companies30days/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AakritiShory/-6Companies30days/tree/master/0605-can-place-flowers) |
 | [0940-fruit-into-baskets](https://github.com/AakritiShory/-6Companies30days/tree/master/0940-fruit-into-baskets) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/AakritiShory/-6Companies30days/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AakritiShory/-6Companies30days/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/AakritiShory/-6Companies30days/tree/master/2262-solving-questions-with-brainpower) |
@@ -128,6 +129,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AakritiShory/-6Companies30days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0094-binary-tree-inorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/AakritiShory/-6Companies30days/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## String Matching
 |  |
 | ------- |
@@ -178,4 +180,5 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AakritiShory/-6Companies30days/tree/master/0084-largest-rectangle-in-histogram) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/AakritiShory/-6Companies30days/tree/master/1305-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
