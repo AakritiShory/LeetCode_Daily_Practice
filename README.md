@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AakritiShory/-6Companies30days/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AakritiShory/-6Companies30days/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AakritiShory/-6Companies30days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AakritiShory/-6Companies30days/tree/master/0283-move-zeroes) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AakritiShory/-6Companies30days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0094-binary-tree-inorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
 ## String Matching
@@ -172,4 +174,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AakritiShory/-6Companies30days/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AakritiShory/-6Companies30days/tree/master/0206-reverse-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AakritiShory/-6Companies30days/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
