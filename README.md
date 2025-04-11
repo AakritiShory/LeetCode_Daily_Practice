@@ -20,6 +20,7 @@
 | [0605-can-place-flowers](https://github.com/AakritiShory/-6Companies30days/tree/master/0605-can-place-flowers) |
 | [0940-fruit-into-baskets](https://github.com/AakritiShory/-6Companies30days/tree/master/0940-fruit-into-baskets) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AakritiShory/-6Companies30days/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/AakritiShory/-6Companies30days/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AakritiShory/-6Companies30days/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/AakritiShory/-6Companies30days/tree/master/2262-solving-questions-with-brainpower) |
@@ -48,10 +49,12 @@
 ## Queue
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/AakritiShory/-6Companies30days/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/AakritiShory/-6Companies30days/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AakritiShory/-6Companies30days/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
@@ -134,6 +137,7 @@
 | [0496-next-greater-element-i](https://github.com/AakritiShory/-6Companies30days/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AakritiShory/-6Companies30days/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/AakritiShory/-6Companies30days/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## String Matching
 |  |
 | ------- |
