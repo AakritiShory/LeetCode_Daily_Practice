@@ -12,20 +12,31 @@ public:
         // }
         // return count;
 
+        // int n=words.size();
+        // int count=0;
+        // unordered_set<string> s;
+        // for(int i=0;i<n;i++){
+        //     s.insert(words[i]);
+        // }
+        // for(int i=0;i<n;i++){   //on
+        //     string rev=words[i];
+        //     reverse(rev.begin(),rev.end());
+        //     if(words[i]==rev) continue;
+        //     if(s.find(rev)!=s.end()){ //o1
+        //         count++;
+        //         s.erase(words[i]);
+        //     }
+        // }
+        // return count;
+
         int n=words.size();
         int count=0;
         unordered_set<string> s;
         for(int i=0;i<n;i++){
-            s.insert(words[i]);
-        }
-        for(int i=0;i<n;i++){   //on
             string rev=words[i];
             reverse(rev.begin(),rev.end());
-            if(words[i]==rev) continue;
-            if(s.find(rev)!=s.end()){ //o1
-                count++;
-                s.erase(words[i]);
-            }
+            if(s.find(rev)!=s.end()) count++;
+            else s.insert(words[i]);
         }
         return count;
     }
