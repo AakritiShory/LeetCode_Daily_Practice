@@ -151,6 +151,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0783-search-in-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiShory/-6Companies30days/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
@@ -166,6 +167,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0783-search-in-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiShory/-6Companies30days/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Dynamic Programming
 |  |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AakritiShory/-6Companies30days/tree/master/0155-min-stack) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
