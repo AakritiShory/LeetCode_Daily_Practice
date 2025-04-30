@@ -168,6 +168,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiShory/-6Companies30days/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2121-find-if-path-exists-in-graph](https://github.com/AakritiShory/-6Companies30days/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [0101-symmetric-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0102-binary-tree-level-order-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiShory/-6Companies30days/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2121-find-if-path-exists-in-graph](https://github.com/AakritiShory/-6Companies30days/tree/master/2121-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -227,4 +229,12 @@
 | [0098-validate-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0783-search-in-a-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/AakritiShory/-6Companies30days/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/AakritiShory/-6Companies30days/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
