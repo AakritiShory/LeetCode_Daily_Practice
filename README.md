@@ -152,6 +152,7 @@
 | [0100-same-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/AakritiShory/-6Companies30days/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0543-diameter-of-binary-tree) |
@@ -164,6 +165,7 @@
 | [0098-validate-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/AakritiShory/-6Companies30days/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0543-diameter-of-binary-tree) |
@@ -177,6 +179,7 @@
 | [0100-same-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/AakritiShory/-6Companies30days/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0543-diameter-of-binary-tree) |
@@ -194,6 +197,7 @@
 | [0100-same-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/AakritiShory/-6Companies30days/tree/master/0199-binary-tree-right-side-view) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiShory/-6Companies30days/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AakritiShory/-6Companies30days/tree/master/2121-find-if-path-exists-in-graph) |
 ## Backtracking
