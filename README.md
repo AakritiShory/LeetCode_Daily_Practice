@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AakritiShory/-6Companies30days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AakritiShory/-6Companies30days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/AakritiShory/-6Companies30days/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AakritiShory/-6Companies30days/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/AakritiShory/-6Companies30days/tree/master/0368-largest-divisible-subset) |
@@ -167,6 +168,7 @@
 | [0100-same-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AakritiShory/-6Companies30days/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AakritiShory/-6Companies30days/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/AakritiShory/-6Companies30days/tree/master/0463-island-perimeter) |
@@ -200,6 +202,7 @@
 | [0101-symmetric-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AakritiShory/-6Companies30days/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AakritiShory/-6Companies30days/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AakritiShory/-6Companies30days/tree/master/0463-island-perimeter) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiShory/-6Companies30days/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AakritiShory/-6Companies30days/tree/master/2121-find-if-path-exists-in-graph) |
@@ -239,6 +242,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AakritiShory/-6Companies30days/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AakritiShory/-6Companies30days/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -247,5 +251,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AakritiShory/-6Companies30days/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AakritiShory/-6Companies30days/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
