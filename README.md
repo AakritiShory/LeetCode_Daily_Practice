@@ -13,6 +13,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/AakritiShory/-6Companies30days/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/AakritiShory/-6Companies30days/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AakritiShory/-6Companies30days/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/AakritiShory/-6Companies30days/tree/master/0368-largest-divisible-subset) |
@@ -68,6 +69,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/AakritiShory/-6Companies30days/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/AakritiShory/-6Companies30days/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/AakritiShory/-6Companies30days/tree/master/0496-next-greater-element-i) |
@@ -110,6 +112,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AakritiShory/-6Companies30days/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/AakritiShory/-6Companies30days/tree/master/0368-largest-divisible-subset) |
