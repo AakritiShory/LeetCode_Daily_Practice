@@ -17,7 +17,7 @@ public:
         return (p->val==q->val)&&isMirror(p->left,q->right)&& isMirror(p->right,q->left);
     }
     bool isSymmetric(TreeNode* root) {
-        if(root==NULL) return false;
+        if(root==NULL) return true;
         return isMirror(root->left,root->right);
     }
 };
