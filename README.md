@@ -170,6 +170,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AakritiShory/-6Companies30days/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0543-diameter-of-binary-tree) |
@@ -187,6 +188,7 @@
 | [0112-path-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AakritiShory/-6Companies30days/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AakritiShory/-6Companies30days/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/AakritiShory/-6Companies30days/tree/master/0463-island-perimeter) |
@@ -209,6 +211,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AakritiShory/-6Companies30days/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0543-diameter-of-binary-tree) |
@@ -232,6 +235,7 @@
 | [0112-path-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AakritiShory/-6Companies30days/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AakritiShory/-6Companies30days/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/AakritiShory/-6Companies30days/tree/master/0463-island-perimeter) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AakritiShory/-6Companies30days/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AakritiShory/-6Companies30days/tree/master/2121-find-if-path-exists-in-graph) |
