@@ -11,6 +11,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AakritiShory/-6Companies30days/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/AakritiShory/-6Companies30days/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AakritiShory/-6Companies30days/tree/master/0217-contains-duplicate) |
@@ -165,6 +166,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AakritiShory/-6Companies30days/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -199,6 +201,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AakritiShory/-6Companies30days/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -255,6 +258,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0783-search-in-a-binary-search-tree) |
 ## Union Find
@@ -276,4 +280,5 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
