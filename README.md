@@ -132,6 +132,7 @@
 | [0344-reverse-string](https://github.com/AakritiShory/-6Companies30days/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/AakritiShory/-6Companies30days/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AakritiShory/-6Companies30days/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AakritiShory/-6Companies30days/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/AakritiShory/-6Companies30days/tree/master/2032-largest-odd-number-in-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AakritiShory/-6Companies30days/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -148,6 +149,7 @@
 | [0155-min-stack](https://github.com/AakritiShory/-6Companies30days/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AakritiShory/-6Companies30days/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AakritiShory/-6Companies30days/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AakritiShory/-6Companies30days/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AakritiShory/-6Companies30days/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## String Matching
