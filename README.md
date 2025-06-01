@@ -128,6 +128,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AakritiShory/-6Companies30days/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AakritiShory/-6Companies30days/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AakritiShory/-6Companies30days/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AakritiShory/-6Companies30days/tree/master/0151-reverse-words-in-a-string) |
@@ -315,4 +316,8 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AakritiShory/-6Companies30days/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
