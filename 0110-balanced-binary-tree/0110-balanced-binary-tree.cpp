@@ -22,8 +22,7 @@ public:
         int ll=height(root->left);
         int rr=height(root->right);
         bool diff=abs(ll-rr)<=1;
-
-        if(diff&& isBalanced(root->left)&& isBalanced(root->right)){
+        if(diff && isBalanced(root->left) && isBalanced(root->right)){
             return true;
         }
         return false;
