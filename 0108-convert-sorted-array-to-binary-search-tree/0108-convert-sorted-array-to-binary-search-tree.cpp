@@ -16,7 +16,7 @@ public:
         int mid=start+(end-start)/2;
         TreeNode* root=new TreeNode(nums[mid]);
         root->left=helper(nums,start,mid-1);
-        root->right=helper(nums,mid+1,end);;
+        root->right=helper(nums,mid+1,end);
         return root;
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
