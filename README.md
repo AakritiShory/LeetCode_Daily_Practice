@@ -42,6 +42,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AakritiShory/-6Companies30days/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/AakritiShory/-6Companies30days/tree/master/0368-largest-divisible-subset) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AakritiShory/-6Companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -71,6 +72,7 @@
 | [0001-two-sum](https://github.com/AakritiShory/-6Companies30days/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0202-happy-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AakritiShory/-6Companies30days/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AakritiShory/-6Companies30days/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
@@ -91,6 +93,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AakritiShory/-6Companies30days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AakritiShory/-6Companies30days/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AakritiShory/-6Companies30days/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AakritiShory/-6Companies30days/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AakritiShory/-6Companies30days/tree/master/0344-reverse-string) |
 ## Greedy
