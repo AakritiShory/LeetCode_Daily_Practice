@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AakritiShory/-6Companies30days/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/AakritiShory/-6Companies30days/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AakritiShory/-6Companies30days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AakritiShory/-6Companies30days/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AakritiShory/-6Companies30days/tree/master/0283-move-zeroes) |
@@ -122,6 +123,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AakritiShory/-6Companies30days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AakritiShory/-6Companies30days/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AakritiShory/-6Companies30days/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AakritiShory/-6Companies30days/tree/master/0268-missing-number) |
@@ -322,8 +324,17 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AakritiShory/-6Companies30days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AakritiShory/-6Companies30days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AakritiShory/-6Companies30days/tree/master/0215-kth-largest-element-in-an-array) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AakritiShory/-6Companies30days/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AakritiShory/-6Companies30days/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AakritiShory/-6Companies30days/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
